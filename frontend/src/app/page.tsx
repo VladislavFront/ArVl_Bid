@@ -14,6 +14,7 @@ export default function IndexPage() {
         </div>
       </main>
 
+      {/* Помогите мне */}
       <footer className="mb-4 flex items-center justify-center">
         <div className="flex items-center rounded-xl bg-neutral-900 px-4 py-2 text-neutral-100">
           <Logo className="h-5 w-auto" />
